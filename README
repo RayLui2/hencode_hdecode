@@ -1,0 +1,14 @@
+Ray Lui(rlui05)
+
+-------------------------------------------------------------------------------
+
+To run my program, you can either run "make hencode", "make hdecode", and 
+"make htable" all indiviually, or just try "make all" to compile all of them.
+For hencode and hdecode, you must give it an input file (argv[1]), and an 
+optional output file(argv[2]), if there is no output file, both executables 
+will print to standard output. I have a hufftools.c and .h file that includes
+functions that all three hencode, htable, and hdecode can use.
+
+-------------------------------------------------------------------------------
+
+
